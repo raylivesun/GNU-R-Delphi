@@ -1,0 +1,21 @@
+{
+  "name": "gnu-r-delphi",
+  "version": "1.0.0",
+  "description": "delphi",
+  "main": "index.js",
+  "devDependencies": {
+    "vite": "^5.2.8"
+  },
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gnu-r-delphi"
+  },
+  "keywords": [
+    "admin"
+  ],
+  "author": "admin",
+  "license": "MIT"
+}

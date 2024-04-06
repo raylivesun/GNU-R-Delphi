@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Delphi.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="1839"/>
+        <CursorPos X="11" Y="240"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="delphi.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Delphi"/>
+        <CursorPos X="20" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/objpas/fgl.pp"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="2057"/>
+        <CursorPos X="5" Y="2068"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="smell.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="121"/>
+        <CursorPos X="3" Y="130"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="50" Column="5" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="126" Column="5" TopLine="122"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="169" Column="5" TopLine="164"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="208" Column="5" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="298" Column="4" TopLine="294"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="345" Column="5" TopLine="341"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="392" Column="5" TopLine="388"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="475" Column="10" TopLine="470"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="498" Column="9" TopLine="493"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="556" Column="7" TopLine="552"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="584" Column="11" TopLine="579"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="887" Column="19" TopLine="882"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="889" Column="11" TopLine="883"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="887" TopLine="881"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="1031" TopLine="1025"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="1150" TopLine="1144"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="1506" TopLine="1500"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="1682" TopLine="1677"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="1854" TopLine="1849"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="66" Column="5" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="878" Column="10" TopLine="873"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="1256" Column="10" TopLine="1250"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="572" Column="3" TopLine="566"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="77" Column="78" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="572" Column="22" TopLine="567"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="72" Column="5" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="571" Column="3" TopLine="565"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="580" Column="7" TopLine="575"/>
+      </Position>
+      <Position>
+        <Filename Value="smell.pas"/>
+        <Caret Line="70" Column="59" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="Delphi.lpr"/>
+        <Caret Line="60" Column="39" TopLine="51"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="Delphi.lpr"/>
+        <Line Value="1"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
