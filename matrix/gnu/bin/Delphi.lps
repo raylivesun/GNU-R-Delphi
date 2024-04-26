@@ -7,8 +7,8 @@
       <Unit>
         <Filename Value="Delphi.lpr"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="1"/>
-        <TopLine Value="1839"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="240"/>
         <CursorPos X="11" Y="240"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
@@ -17,29 +17,27 @@
         <Filename Value="delphi.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="Delphi"/>
+        <EditorIndex Value="-1"/>
         <CursorPos X="20" Y="8"/>
         <UsageCount Value="20"/>
-        <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
-      </Unit>
-      <Unit>
-        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/objpas/fgl.pp"/>
-        <EditorIndex Value="3"/>
-        <TopLine Value="2057"/>
-        <CursorPos X="5" Y="2068"/>
-        <UsageCount Value="10"/>
-        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="smell.pas"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <EditorIndex Value="2"/>
-        <TopLine Value="121"/>
-        <CursorPos X="3" Y="130"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="26"/>
         <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/objpas/fgl.pp"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="2057"/>
+        <CursorPos X="5" Y="2068"/>
+        <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>

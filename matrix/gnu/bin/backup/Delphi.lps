@@ -8,8 +8,8 @@
         <Filename Value="Delphi.lpr"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="50"/>
-        <CursorPos X="18" Y="59"/>
+        <TopLine Value="1839"/>
+        <CursorPos X="11" Y="240"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
@@ -37,8 +37,8 @@
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="2"/>
-        <TopLine Value="120"/>
-        <CursorPos X="5" Y="127"/>
+        <TopLine Value="121"/>
+        <CursorPos X="3" Y="130"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
